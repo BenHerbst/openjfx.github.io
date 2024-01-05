@@ -2,7 +2,7 @@ repo_name: BenHerbst/openjfx.github.io
 report_id: 8270f7aae7dcff1f050e8b6aae690fb2
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-18T21:48:05+00:00'
+timestamp: '2024-01-05T08:20:45+00:00'
 requested_by: BenHerbst
 provider: github
 branch: develop
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/BenHerbst/openjfx.github.io
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/BenHerbst/openjfx.github.io
   detection_source: Repo Metadata
 - name: pgvector
   description: Open-source vector similarity search for Postgres
@@ -35,6 +37,8 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/BenHerbst/openjfx.github.io/blob/develop/themes/hugo-elate-theme/static/fonts/icomoon/icomoon/Read
+    Me.txt
   detection_source: themes/hugo-elate-theme/static/fonts/icomoon/icomoon/Read Me.txt
   last_updated_by: Eugene Ryzhikov
   last_updated_on: 2018-09-08 20:52:36.000000000 Z
@@ -46,6 +50,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/BenHerbst/openjfx.github.io
   detection_source: Repo Metadata
 - name: Travis CI
   description: A hosted continuous integration service for open source and private
@@ -56,6 +61,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/BenHerbst/openjfx.github.io/blob/develop/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Abhinay Agarwal
   last_updated_on: 2018-10-23 06:44:02.000000000 Z
@@ -67,6 +73,8 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/BenHerbst/openjfx.github.io/blob/develop/themes/hugo-elate-theme/static/fonts/icomoon/icomoon/Read
+    Me.txt
   detection_source: themes/hugo-elate-theme/static/fonts/icomoon/icomoon/Read Me.txt
   last_updated_by: Eugene Ryzhikov
   last_updated_on: 2018-09-08 20:52:36.000000000 Z
